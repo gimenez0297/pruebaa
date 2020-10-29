@@ -1,3 +1,3 @@
 <?php
-	echo "Hola Mundo Prueba";
+	echo "Hola Mundo Prueba de repositorio";
 	?>
